@@ -7,7 +7,7 @@ const API_USERNAME = 'laurentmwn@gmail.com'
 // la cible
 const API_HOST = "https://labeya.atlassian.net"
 
-
+// etabli la connexion
 const client =  new Version3Client({ 
     host: API_HOST, 
     authentication: {email: API_USERNAME, apiToken: API_TOKEN}, 
