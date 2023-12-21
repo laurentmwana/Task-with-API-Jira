@@ -1,6 +1,6 @@
 # TASK WITH API JIRA
 
-# Dezipper le fichier
-
-# npm install
-pour installer les dépendances
+- dezipper
+- cd projet
+- npm install
+    pour installer les dépendances
